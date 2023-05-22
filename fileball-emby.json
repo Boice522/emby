@@ -63,6 +63,10 @@
             "url":"https://raw.githubusercontent.com/Boice522/emby/main/icons/peach.png"
         },
         {
+            "name":"Peach2",
+            "url":"https://raw.githubusercontent.com/Boice522/emby/main/icons/peach2.png"
+        },
+        {
             "name":"MJJ",
             "url":"https://raw.githubusercontent.com/Boice522/emby/main/icons/mjj.png"
         },
@@ -81,6 +85,18 @@
         {
             "name":"Studyfun",
             "url":"https://raw.githubusercontent.com/Boice522/emby/main/icons/studyfun.png"
+        },
+        {
+            "name":"EmbyPlus",
+            "url":"https://raw.githubusercontent.com/Boice522/emby/main/icons/zhipianren.png"
+        },
+        {
+            "name":"Judog",
+            "url":"https://raw.githubusercontent.com/Boice522/emby/main/icons/judog.png"
+        },
+        {
+            "name":"Tree",
+            "url":"https://raw.githubusercontent.com/Boice522/emby/main/icons/tree.png"
         },
     ]
 }
