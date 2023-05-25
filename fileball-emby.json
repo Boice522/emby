@@ -106,5 +106,9 @@
             "name":"Tree",
             "url":"https://raw.githubusercontent.com/Boice522/emby/main/icons/tree.png"
         },
+        {
+            "name":"23",
+            "url":"https://raw.githubusercontent.com/Boice522/emby/main/icons/23.png"
+        },
     ]
 }
